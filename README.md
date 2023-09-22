@@ -4,7 +4,7 @@
 
 Codeblocks in markdown makes it *very easy* for tech people to **copy, paste, and share** code. A good _Cloud Engineer_ uses Codeblocks when possible.
 
-![Example Image](assets/Screenshot 2023-09-22 103137.png).
+![Example Image](assets/Screenshot%202023-09-22%20103137.png).
 
 
 ```go
