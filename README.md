@@ -4,6 +4,9 @@
 
 Codeblocks in markdown makes it *very easy* for tech people to **copy, paste, and share** code. A good _Cloud Engineer_ uses Codeblocks when possible.
 
+![Example Image](assets/Screenshot 2023-09-22 103137.png).
+
+
 ```go
 
 // This program defines a factorial function that calculates the factorial of a non-negative integer using recursion.
