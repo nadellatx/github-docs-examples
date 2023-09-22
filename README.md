@@ -43,6 +43,14 @@ Traceback(most recent call last):
  1: from (irb):1
 RuntimeError: This is a custom error message
 ```
+## Github Flavord Markdown(GFM) supports task lists
+
+- [x] Step 1
+- [ ] Step 2
+- [ ] Step 3
+
+GFM supports emojis too.
+This is a cloud related project :cloud: 
 
 ## References
 - [Github Flavored Markdown Spec](https://github.github.com/gfm/).
